@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Abdessalam Ed-dib</h1>
 <p align="center">Engineering student @ École Polytechnique | Data Scientist | Data Science Writer & Mathematics' Instructor</p>
-<div align="center"><img src="https://github.com/abdessalam-eddib/abdessalam-eddib/blob/main/S0S.gif"/></div>  
+<div align="center"><img src="https://github.com/abdessalam-eddib/abdessalam-eddib/blob/main/S0S.gif"/></div>    
 
-<h2>👨‍💻 </h2>
+<h2>🤓 Who Am I?</h2>
+
+<h2>👨‍💻 Tech Stack</h2>
 
 <h2>📝 Latest Blog Posts </h2>  
 
@@ -30,4 +32,8 @@ Here are some ideas to get you started:
 - **Medium**: [Abdessalam Ed-dib](https://www.medium.com/@abdesedd)
 - **Twitter**:  [@abdessalameddib](https://twitter.com/abdessalameddib)
 - **Email**:    abdessalameddib@polytechnique.org  
-<h2> Github Statistics</h2>
+<h2>📈 Github Statistics</h2>   
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdessalam-eddib&show_icons=true&theme=transparent" />
+</a>  

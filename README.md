@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <h2>📝 Latest Blog Posts </h2>
 <!-- BLOG-POST-LIST:START -->
+- [Descriptive statistics: The quickest way to summarize your data](https://medium.com/@abdesedd/descriptive-statistics-the-quickest-way-to-summarize-your-data-f3444f243015?source=rss-c0da9264e9d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>📫 Get in Touch</h2>  

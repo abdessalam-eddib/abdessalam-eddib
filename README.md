@@ -13,5 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Abdessalam Ed-dib</h1>
-<h3 align="center">Engineering student @ École Polytechnique | Data Scientist | Data Science Writer & Mathematics' Instructor</h3>
-<br>
+<p align="center">Engineering student @ École Polytechnique | Data Scientist | Data Science Writer & Mathematics' Instructor</p>
+<div align="center"><img src="https://github.com/abdessalam-eddib/abdessalam-eddib/blob/main/S0S.gif"/></div>
+<h2>👨‍💻 Tech Stack</h1>
+<h2>📝 Get in Touch</h1>  
+
+- **LinkedIn**: Abdessalam Ed-dib  
+
+- **Twitter**: @abdessalameddib  
+
+- **Email**: abdessalameddib@polytechnique.org  

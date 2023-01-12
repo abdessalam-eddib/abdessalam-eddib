@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://github.com/abdessalam-eddib/abdessalam-eddib/blob/main/S0S.gif"/></div>    
 
 <h2>🤓 Who Am I?</h2>
-
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passionate about artificial intelligence and its applications, I have chosen to pursue a Master of Science in applied mathematics at Ecole Polytechnique, one of the best engineering schools in France.      
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, I believe that getting our hands dirty is the best way to learn. As a result, I am constantly striving to expand my knowledge in this sector by covering as many topics as possible on my own.</p>
 <h2>👨‍💻 Tech Stack</h2>
 
 <h2>📝 Latest Blog Posts </h2>  
@@ -35,5 +37,8 @@ Here are some ideas to get you started:
 <h2>📈 Github Statistics</h2>   
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdessalam-eddib&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdessalam-eddib&show_icons=true&theme=transparent" />
 </a>  
+
+
+
